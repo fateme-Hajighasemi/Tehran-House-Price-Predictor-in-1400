@@ -7,7 +7,4 @@ A machine learning model to predict house prices in Tehran based on features lik
 - **Web Interface**: Gradio
 - **Data**: Preprocessed Tehran housing dataset
 
-## How to Run
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
